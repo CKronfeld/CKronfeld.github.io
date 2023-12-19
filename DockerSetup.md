@@ -75,6 +75,12 @@ docker compose up -d
 # Step 3: setting up WordPress
 Now that that is done, I went to my browser to test and make sure the WordPress was working and was ready to be setup:
 
+I went to:
+```
+http://localhost:8000
+
+```
+
 ![Initial Setup Image](image.png)
 I selected English and filled out the text boxes to created my WordPress.
 
