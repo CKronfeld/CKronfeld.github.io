@@ -81,15 +81,15 @@ http://localhost:8000
 
 ```
 
-![Initial Setup Image](image.png)
+
 I selected English and filled out the text boxes to created my WordPress.
 
 I have completed my WordPress! Here is the admin interface with my username:
-![Admin Interface](image-1.png)
+![Admin Interface](wordpressinterface.png)
 
 
 Here is an image of my containers running: 
-![Alt text](image-2.png)
+![Alt text](dockercode.png)
 
 
 
